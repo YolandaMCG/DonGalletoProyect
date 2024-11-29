@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/src/java/org/utl/dsm/AppService/CompraExternaAppService.java</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/src/java/org/utl/dsm/CQRS/ComprasCqrs.java</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/web/Compras.html</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/web/index.html</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/src/java/org/utl/dsm/dao/ComprasDAO.java</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/src/java/org/utl/dsm/rest/RESTDonGalleto.java</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/src/java/org/utl/dsm/controller/controllerProveedor.java</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/src/java/org/utl/dsm/model/Proveedor.java</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/web/MateriaPrima.html</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/web/css/MateriasPrimas.css</file>
+            <file>file:/C:/Users/ycuel/OneDrive/Documentos/NetBeansProjects/Don_galleto/src/java/org/utl/dsm/controller/controllerCompras.java</file>
+        </group>
+    </open-files>
+</project-private>
